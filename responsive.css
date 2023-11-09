@@ -1,0 +1,10 @@
+.box{
+    padding: 30px;
+    margin: 10px;
+}
+.orange-box{
+    background-color: orange;
+}
+.green-box{
+    background-color: green;
+}
